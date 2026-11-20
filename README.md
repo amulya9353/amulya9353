@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there, I'm Amulya! 👋
 
-<!--
-**amulya9353/amulya9353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Python, SQL, and Software Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🎓 Engineering graduate in Electronics and Communication.
+- 🌱 Currently learning Python, SQL, Django, and Web Development.
+- 🔍 Interested in Software Testing and Quality Assurance.
+- 🛠️ Working on academic and personal projects.
+- 📚 Always eager to learn new technologies and improve my skills.
+
+Skills
+
+- Python
+- SQL
+- Django
+- HTML & CSS
+- Manual Testing
+- Git & GitHub
+
+Projects
+
+- Waste Classification using VGG-16 and ResNet-50
+- Student Management System
+- Python Mini Projects
+
+Goals
+
+To continuously learn, build projects, and grow as a technology professional.
+
+✨ Thanks for visiting my GitHub profile!
